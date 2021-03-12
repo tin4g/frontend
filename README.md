@@ -6,3 +6,13 @@
 - [Overseas Rabbit](https://osjobs.net/topk/) Interview questions
 
 ## 日志
+
+### 2021-03-12
+
+**by 面试 ([Tencent](https://osjobs.net/topk/腾讯/))**
+
+- [15] 简述 JavaScript 原型以及原型链
+
+**by 主题 ([Internet](https://roadmap.sh/frontend))**
+
+- [0] How does the Internet work?
