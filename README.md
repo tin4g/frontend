@@ -7,6 +7,16 @@
 
 ## 日志
 
+### 2021-03-14
+
+**by 面试 ([Tencent](https://osjobs.net/topk/腾讯/))**
+
+- [6] 简述 JavaScript 中的防抖与节流的原理并尝试实现
+
+**by 主题 ([Internet](https://roadmap.sh/frontend))**
+
+- [0] Browsers and how they work?
+
 ### 2021-03-13
 
 **by 面试 ([Tencent](https://osjobs.net/topk/腾讯/))**
