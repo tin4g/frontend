@@ -7,6 +7,12 @@
 
 ## 日志
 
+### 2021-03-17
+
+**by 面试 ([Tencent](https://osjobs.net/topk/腾讯/))**
+
+- [6] 箭头函数和普通函数的区别是什么？
+
 ### 2021-03-14
 
 **by 面试 ([Tencent](https://osjobs.net/topk/腾讯/))**
