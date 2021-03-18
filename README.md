@@ -7,6 +7,12 @@
 
 ## 日志
 
+### 2021-03-18
+
+**by 面试 ([Tencent](https://osjobs.net/topk/腾讯/))**
+
+- [5] 简述 JavaScript 事件冒泡和事件捕获原理
+
 ### 2021-03-17
 
 **by 面试 ([Tencent](https://osjobs.net/topk/腾讯/))**
