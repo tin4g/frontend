@@ -7,6 +7,12 @@
 
 ## 日志
 
+### 2021-03-19
+
+**by 面试 ([Tencent](https://osjobs.net/topk/腾讯/))**
+
+- [5] 什么是跨域，什么情况下会发生跨域请求？
+
 ### 2021-03-18
 
 **by 面试 ([Tencent](https://osjobs.net/topk/腾讯/))**
