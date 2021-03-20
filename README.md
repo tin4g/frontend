@@ -7,6 +7,12 @@
 
 ## 日志
 
+### 2021-03-20
+
+**by 面试 ([Tencent](https://osjobs.net/topk/腾讯/))**
+
+- [4] 简述 JavaScript 中 this 的指向有哪些
+
 ### 2021-03-19
 
 **by 面试 ([Tencent](https://osjobs.net/topk/腾讯/))**
